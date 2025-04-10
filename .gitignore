@@ -1,3 +1,6 @@
+# dlt
+**/.dlt/
+
 # Python bytecode
 __pycache__/
 *.py[cod]
@@ -10,15 +13,6 @@ venv/
 .vscode/
 .idea/
 
-# DBeaver specific files
-.dbeaver/
-*.dbeaver/
-*.dbeaver-data-sources*.xml
-dbeaver-debug.log
-project-metadata.json
-project-metadata.json.bak
-data-sources.json
-project-settings.json
 
 # Database files
 *.duckdb
