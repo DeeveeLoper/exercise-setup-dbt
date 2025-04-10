@@ -1,0 +1,42 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# DBeaver specific files
+.dbeaver/
+*.dbeaver/
+*.dbeaver-data-sources*.xml
+dbeaver-debug.log
+project-metadata.json
+project-metadata.json.bak
+data-sources.json
+project-settings.json
+
+# Database files
+*.duckdb
+*.duckdb.wal
+*.db
+*.sqlite
+*.sqlite3
+
+*.csv
+
+# Other large data formats
+*.parquet
+*.arrow
+
+# Configuration and environment
+.env
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
